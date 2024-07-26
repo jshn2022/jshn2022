@@ -29,9 +29,7 @@
 
 <p>&emsp;&emsp;Hello! I’m a Master’s student specializing in Bioinformatics.</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-</td></tr>
-
+<div>&nbsp;</div>
 <tr><td>
   
 ### 💖 Main Research Focus
@@ -41,9 +39,8 @@
 - 🌁 **Image Processing**: Enhancing biomedical imaging for better diagnostics.
 - 🔧 **FISH Probe Design**: Developing precise probes for genetic analysis.
 - 📚 **Bioinformatics Software**: Building tools for data processing and analysis.
-
-</td></tr>
-
+  <div>&nbsp;</div>
+  
 <tr><td>
 
 <!--  skill badge 技能徽章 -->
