@@ -3,20 +3,19 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://github.com/jshn2022/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=23" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=15" />
     </a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="125px" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="100px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
-
 
 #  🙋 Hello
 
@@ -32,17 +31,21 @@
 <p>&emsp;&emsp;Hello! I’m a Master’s student specializing in Bioinformatics.</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
+### 💖 Main Research Focus
+
+Here's a brief overview of my main areas of study:
+
+- **Spatial Transcriptomics**: Exploring the three-dimensional transcriptome dynamics within tissue environments to uncover new insights into cellular function.
+- **Single-cell Analysis**: Dissecting the complexities of cellular heterogeneity to better understand biological processes on a granular level.
+- **Medical Image Processing**: Developing algorithms to enhance the clarity and utility of biomedical imaging, aiding in faster and more accurate diagnosis.
+- **FISH Probe Design**: Crafting custom probes for fluorescent in situ hybridization that target specific genetic sequences, increasing the precision of genetic analysis.
+- **Bioinformatics Software Development**: Creating tools that enable researchers to efficiently process and analyze vast amounts of biological data.
+
 </td></tr>
 
 <tr><td>
 
-<div>&nbsp;</div>
-
-
 <!--  skill badge 技能徽章 -->
-
-### 💖 Skills of interest
-
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
