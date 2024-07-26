@@ -23,7 +23,6 @@
   
 <tr><td>
 
-  
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
@@ -34,16 +33,16 @@
 </td></tr>
 
 <tr><td>
-
+  
 ### 💖 Main Research Focus
 
-Here's a brief overview of my main areas of study:
+- 🌏 **Spatial Transcriptomics**: Uncovering cellular function through 3D transcriptome analysis.
+- 🐬 **Single-cell Analysis**: Understanding biological complexity at the cellular level.
+- 🌁 **Image Processing**: Enhancing biomedical imaging for better diagnostics.
+- 🔧 **FISH Probe Design**: Developing precise probes for genetic analysis.
+- 📚 **Bioinformatics Software**: Building tools for data processing and analysis.
 
-- **🌏 Spatial Transcriptomics**: Exploring the three-dimensional transcriptome dynamics within tissue environments to uncover new insights into cellular function.
-- **🐬 Single-cell Analysis**: Dissecting the complexities of cellular heterogeneity to better understand biological processes on a granular level.
-- **🌁 Image Processing**: Developing algorithms to enhance the clarity and utility of biomedical imaging, aiding in faster and more accurate diagnosis.
-- **🔧 FISH Probe Design**: Crafting custom probes for fluorescent in situ hybridization that target specific genetic sequences, increasing the precision of genetic analysis.
-- **📚 Bioinformatics Software Development**: Creating tools that enable researchers to efficiently process and analyze vast amounts of biological data.
+Feel free to explore my projects and consider collaborating!
 
 </td></tr>
 
