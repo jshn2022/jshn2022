@@ -31,15 +31,19 @@
 <p>&emsp;&emsp;Hello! I’m a Master’s student specializing in Bioinformatics.</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
+</td></tr>
+
+<tr><td>
+
 ### 💖 Main Research Focus
 
 Here's a brief overview of my main areas of study:
 
-- **Spatial Transcriptomics**: Exploring the three-dimensional transcriptome dynamics within tissue environments to uncover new insights into cellular function.
-- **Single-cell Analysis**: Dissecting the complexities of cellular heterogeneity to better understand biological processes on a granular level.
-- **Medical Image Processing**: Developing algorithms to enhance the clarity and utility of biomedical imaging, aiding in faster and more accurate diagnosis.
-- **FISH Probe Design**: Crafting custom probes for fluorescent in situ hybridization that target specific genetic sequences, increasing the precision of genetic analysis.
-- **Bioinformatics Software Development**: Creating tools that enable researchers to efficiently process and analyze vast amounts of biological data.
+- **🌏 Spatial Transcriptomics**: Exploring the three-dimensional transcriptome dynamics within tissue environments to uncover new insights into cellular function.
+- **🐬 Single-cell Analysis**: Dissecting the complexities of cellular heterogeneity to better understand biological processes on a granular level.
+- **🌁 Image Processing**: Developing algorithms to enhance the clarity and utility of biomedical imaging, aiding in faster and more accurate diagnosis.
+- **🔧 FISH Probe Design**: Crafting custom probes for fluorescent in situ hybridization that target specific genetic sequences, increasing the precision of genetic analysis.
+- **📚 Bioinformatics Software Development**: Creating tools that enable researchers to efficiently process and analyze vast amounts of biological data.
 
 </td></tr>
 
