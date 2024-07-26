@@ -42,8 +42,6 @@
 - 🔧 **FISH Probe Design**: Developing precise probes for genetic analysis.
 - 📚 **Bioinformatics Software**: Building tools for data processing and analysis.
 
-Feel free to explore my projects and consider collaborating!
-
 </td></tr>
 
 <tr><td>
